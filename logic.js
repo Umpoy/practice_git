@@ -133,6 +133,10 @@ $(document).ready(function() {
             }
 
             counter++;
+
+            checkGameOver();
+
+            function()
         }
 
 
